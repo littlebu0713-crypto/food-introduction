@@ -27,6 +27,8 @@
 ---
 _最後更新：2026年盛夏_
 ![GitHubLogo](https://githubassets.com)
+ext
+![我上傳的第一張圖片](my-photo.jpg)
 
 
 
