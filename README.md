@@ -26,5 +26,7 @@
 
 ---
 _最後更新：2026年盛夏_
-text
-![我上傳的第一張圖片](cake.jpg)
+![GitHubLogo](https://githubassets.com)
+
+
+
